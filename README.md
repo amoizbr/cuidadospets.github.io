@@ -1,1 +1,133 @@
-# cuidadospets.github.io
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" type="imagex/png" href="img/pegadas-dog.png">
+    <title>Home</title>
+    </style>
+</head>
+<body>
+    <header>
+            <nav>
+                <img src="img/pegadas-dog.png" class="img-header">
+                <li class="title-pet"><a href="#" style="text-decoration: none; color: #fff;">Cuidados dos Pets</a></li>
+                <ul class="menu-nav">
+                    <li><a type="submit" href="index.html">Home</a></li>
+                    <li><a href="sobre.html">Sobre</a></li>
+                    <li><a href="contato.html">Contato</a></li>
+                    <li><a href="cachorro.html">Cachorro</a></li>
+                    <li><a href="#secao2">Raças</a></li>
+                </ul>
+            </nav>
+    </header>
+    <main>
+        <div class="wellcome">
+            <h1 class="well-text">🐾 Bem-vindo ao nosso cantinho canino! 🐶</h1>
+            <img src="img/dogs-wellcome.png" alt="cachorros" style="width: 80%;">
+            <p class="well-text2">
+                Se você ama cachorros, está no lugar certo!
+                Aqui você vai encontrar dicas úteis, curiosidades, e informações completas sobre as principais raças de cães — desde os mais brincalhões até os mais tranquilos e companheiros.
+
+                Nosso objetivo é ajudar tutores, amantes de pets e curiosos a entenderem melhor esses amigos tão fiéis.
+                Quer saber qual raça combina com você? Como cuidar melhor do seu cachorro? Ou simplesmente se encantar com fotos e histórias incríveis?
+                Fique à vontade! Este espaço foi feito para você — e para eles. 💛🐕
+            </p>
+    <br>
+        </div>
+        <div>
+            <h2 class="titulo">Cuidados básicos com seu  Cachorro!</h2>
+            <ul class="lista-cuidados">
+                <li><p class="lista-cuidados-topic">Alimentação:</p> uma alimentação adequada é essencial para a saúde do seu cão. Dê a ele ração de qualidade e evite dar comida humana, que pode causar problemas de saúde.</li>
+                <li><p class="lista-cuidados-topic">Higiene:</p> banhos regulares, escovação dos pelos e limpeza dos ouvidos são importantes para manter o seu cachorro limpo e saudável.</li>
+                <li><p class="lista-cuidados-topic">Vacinas e vermifugação:</p> mantenha a carteira de vacinação do seu cachorro atualizada e faça a vermifugação regularmente para prevenir doenças.</li>
+                <li><p class="lista-cuidados-topic">Passeios e Exercícios:</p> os cachorros precisam de exercícios físicos diários para manter a saúde e a felicidade. Leve-o para passear e brincar regularmente.</li>
+                <li><p class="lista-cuidados-topic">Consultas ao veterinário:</p> consulte regularmente um veterinário para garantir que seu cachorro esteja saudável e receba os cuidados necessários.</li>
+            </ul>
+        </div>
+    <br>
+    <br>
+    <br>
+        <section id="secao2">
+            <h2 class="titulo">Raças de Cachorro</h2>
+            <p class="text-p">Existem muitas raças de cachorro, cada uma com suas características e personalidades únicas. Algumas das raças mais populares incluem:</p>
+        </section>
+        <table>
+            <tr>
+                <td>Raça</td>
+                <td>Características</td>              
+            </tr>
+            <tr>
+                <td>Labrador Retriever</td>
+                <td>Uma das raças mais populares do mundo, o labrador é conhecido por ser amigável, leal e inteligente</td>
+            </tr>
+            <tr>
+                <td>Golden Retriever</td>
+                <td>Outro favorito popular, o golden retriever é um cachorro amigável e afetuoso que adora brincar.</td>
+            </tr>
+            <tr>
+                <td>Poodle</td>
+                <td>Uma raça inteligente e brincalhona, o poodle vem em três tamanhos diferentes e é uma ótima opção para pessoas com alergias.</td>
+            </tr>
+            <tr>
+                <td>Bulldog Francês</td>
+                <td>Um cachorro amigável e leal, o bulldog inglês é uma raça tranquila e de baixa energia.</td>
+            </tr>
+            <tr>
+                <td>Pastor Alemão</td>
+                <td>Uma raça inteligente e corajosa, o pastor alemão é frequentemente usado como cão policial ou de guarda.</td>
+            </tr>
+        </table>
+        <div>
+            <p class="text-p">Confira a imagens de cada raça:</p>
+            <ul class="img-ul">
+                <li class="text-p"><img src="img/racas/labrador-retrivier.png" alt="Labrador Retriever" class="img-racas"> Labrador Retriever </li>
+                <li class="text-p"><img src="img/racas/golden-retrivier.png" alt="Golden Retriever" class="img-racas">Golden Retriever</li>
+                <li class="text-p"><img src="img/racas/poodle.png" alt="Poodle" class="img-racas">Poodle</li>
+                <li class="text-p"><img src="img/racas/bulldog-frances.png" alt="Bulldog Francês" class="img-racas">Bulldog Francês</li>
+                <li class="text-p"><img src="img/racas/pastor-alemao.webp" alt="Pastor Alemão" class="img-racas"> Pastor Alemão</li>
+            </ul> 
+        </div>
+    <br>
+    <br>
+    <br>
+            <h2 class="titulo">Dicas para treinamento de Cachorro</h2>
+
+            <ol class="lista-treinamento">
+                <li><p class="lista-treinamento-li">Use reforço positivo:</p>Use reforço positivo: recompense seu cachorro quando ele fizer algo certo, em vez de puni-lo quando ele fizer algo errado.</li>
+                <li><p class="lista-treinamento-li">Seja consistente:</p> use os mesmos comandos e treinamentos todos os dias para que o seu cachorro entenda o que é esperado dele.</li>
+                <li><p class="lista-treinamento-li">Não desista:</p> treinar um cachorro pode ser difícil, mas é importante ser persistente e continuar tentando.</li>
+                <li><p class="lista-treinamento-li">Envolva toda a família:</p> todos devem participar do treinamento do cachorro para que ele entenda o que é esperado dele.</li>
+                <li><p class="lista-treinamento-li">Considere a ajuda de um profissional:</p> se você estiver tendo dificuldades com o treinamento do seu cachorro, pode ser útil procurar a ajuda de um treinador profissional.</li>
+            </ol>
+    <hr>
+            <p class="text-p">Esperamos que estas informações e dicas tenham sido úteis para você e seu cachorro. Lembre-se, cuidar de um cachorro é uma responsabilidade importante, mas com amor e atenção, você pode desfrutar de uma vida feliz e saudável com o seu melhor amigo peludo.</p>
+        </div>
+    <br>
+
+        <div class="style-form">
+            <h3 class="title-form">Envie o assunto que deseja abordar:</h3>
+            <form action="..." method="post">
+                <div class="form-group">
+                    <label for="nome">Nome: </label>
+                    <input type="text" id="nome" name="nome" required>
+
+                    <label for="email">E-mail: </label>
+                    <input type="email" id="email" name="email" required>
+
+                    <label for="assunto">Assunto: </label>
+                    <textarea id="mensagem" name="mensagem" rows="4" cols="50" placeholder="Digite sua mensagem aqui..." required></textarea>
+                <br>
+                    <button type="submit">Enviar</button>
+                </div>
+            </form>
+        </div>
+    </main>
+<br>
+    <footer>
+        <p>&copy; 2025 Cuidados Pets. Todos os direitos reservados.</p>
+        <p>Desenvolvido por <a href=""></a>Amós Ferreira</p>
+    </footer>
+</body>
+</html>
